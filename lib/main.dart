@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp>{
         "assets/icons/ic_floor_calculator.png",
       ),
       photoSize: 100.0,
-      backgroundColor: Colors.black,
+      backgroundColor: Colors.black87,
       loaderColor: Colors.white,
     );
   }
