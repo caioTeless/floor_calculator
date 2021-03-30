@@ -11,7 +11,7 @@ class ValidatorHelper {
   */
   static String inputValidator(String text){
     if (text.isEmpty) return kValidateNull;
-    if (double.parse(text) <= 0) return kValidateZero;
+    if (double.parse(text.replaceAll(',', '.')) <= 0) return kValidateZero;
     return null;
   }
 }
