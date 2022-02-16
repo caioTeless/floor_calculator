@@ -1,16 +1,12 @@
 # calculator_floor
 
-A new Flutter project.
+Projeto desenvolvido durante as aulas de programação mobile na faculdade.
 
-## Getting Started
+## Prints ##
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![MemStuff1](https://user-images.githubusercontent.com/61428146/154268006-30a245b7-4a37-44c1-8980-15b29948eb9b.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![MemStuff2](https://user-images.githubusercontent.com/61428146/154268018-0e53d1c5-b621-48cd-a840-63d8188bc00c.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![MemStuff3](https://user-images.githubusercontent.com/61428146/154268029-4190d14a-9d01-4b79-b6bd-09747c0f0a35.png)
