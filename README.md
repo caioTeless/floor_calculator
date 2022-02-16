@@ -2,11 +2,8 @@
 
 Projeto desenvolvido durante as aulas de programação mobile na faculdade.
 
+Calcular pisos necessários para uma obra.
+
 ## Prints ##
 
-
-![MemStuff1](https://user-images.githubusercontent.com/61428146/154268006-30a245b7-4a37-44c1-8980-15b29948eb9b.png)
-
-![MemStuff2](https://user-images.githubusercontent.com/61428146/154268018-0e53d1c5-b621-48cd-a840-63d8188bc00c.png)
-
-![MemStuff3](https://user-images.githubusercontent.com/61428146/154268029-4190d14a-9d01-4b79-b6bd-09747c0f0a35.png)
+![floors](https://user-images.githubusercontent.com/61428146/154278111-c1127e96-8001-43d6-babb-1191827e42f8.png)  ![floors2](https://user-images.githubusercontent.com/61428146/154278121-684b24a1-0e71-4919-be2d-dced479040ea.png)
